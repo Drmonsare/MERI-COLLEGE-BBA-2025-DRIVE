@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "MERI Student Directory (BBA 2025)",
+    "subtitle": "Browse students by name, enrollment & shift"
+  },
+  "header": {
+    "export": "Export CSV",
+    "print": "Print",
+    "admin": "Admin"
+  },
+  "filters": {
+    "search": "Search by name or enrollment no.",
+    "gender": "Gender",
+    "shift": "Shift",
+    "all": "All",
+    "male": "Boys",
+    "female": "Girls",
+    "other": "Other",
+    "unknown": "Unknown",
+    "sortBy": "Sort By",
+    "nameAsc": "Name (A→Z)",
+    "nameDesc": "Name (Z→A)",
+    "enrollmentAsc": "Enrollment (Low to High)",
+    "enrollmentDesc": "Enrollment (High to Low)",
+    "shiftSort": "By Shift",
+    "letterFilter": "Quick Filter",
+    "favourites": "Show Favourites Only",
+    "enrollmentLookup": "Exact Enrollment Lookup"
+  },
+  "student": {
+    "enrollment": "Enrollment No.",
+    "name": "Name",
+    "gender": "Gender",
+    "shift": "Shift",
+    "viewProfile": "View Profile",
+    "message": "Message",
+    "addFavourite": "Add to Favourites",
+    "removeFavourite": "Remove from Favourites"
+  },
+  "view": {
+    "grid": "Grid View",
+    "table": "Table View"
+  },
+  "pagination": {
+    "showing": "Showing",
+    "to": "to",
+    "of": "of",
+    "students": "students",
+    "previous": "Previous",
+    "next": "Next",
+    "pageSize": "Page Size"
+  },
+  "admin": {
+    "title": "Admin Panel",
+    "uploadCsv": "Upload CSV",
+    "addStudent": "Add New Student",
+    "editStudent": "Edit Student",
+    "deleteStudent": "Delete Student",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel"
+  },
+  "messages": {
+    "noResults": "No students found matching your filters.",
+    "loading": "Loading students...",
+    "error": "An error occurred. Please try again.",
+    "csvExported": "CSV exported successfully!",
+    "studentAdded": "Student added successfully!",
+    "studentUpdated": "Student updated successfully!",
+    "studentDeleted": "Student deleted successfully!"
+  }
+}
